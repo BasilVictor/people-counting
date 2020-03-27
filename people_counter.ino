@@ -38,7 +38,6 @@ void setup() {
   pinMode(echoPinB, INPUT);
   Serial.begin(9600);
   delay(2000);
-
 }
 
 void lightChange()
